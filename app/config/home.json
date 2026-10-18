@@ -1,0 +1,75 @@
+{
+  "hero": {
+    "title": "DAMAC Broker Awards & Recognition",
+    "subtitle": "An exclusive showcase of DAMAC Properties' annual and quarterly award ceremonies honoring outstanding broker partnerships.",
+    "description": "We specialize in capturing the most precious moments in life, creating lasting memories through our lens",
+    "cta": {
+      "primary": "View Gallery",
+      "secondary": "Contact Us"
+    },
+    "backgroundImage": "/images/hero-bg.jpg"
+  },
+  "featuredCollections": [
+    {
+      "id": "awards",
+      "title": "Awards & Recognition",
+      "description": "Award ceremonies and recognition highlights",
+      "image": "/images/gallery/nature/img (6).jpg",
+      "link": "/gallery/awards"
+    },
+    {
+      "id": "urban",
+      "title": "",
+      "description": "Capturing the vitality of city life",
+      "image": "/images/gallery/nature/img (3).jpg",
+      "link": "/gallery/awards"
+    },
+    {
+      "id": "travel",
+      "title": "",
+      "description": "Recording wonderful moments during journeys",
+      "image": "/images/gallery/nature/img (1).jpg",
+      "link": "/gallery/awards"
+    }
+  ],
+  "services": [
+    {
+      "id": "portrait",
+      "title": "Portrait Photography",
+      "description": "Professional portrait photography services, capturing your unique personality and charm",
+      "icon": "camera"
+    },
+    {
+      "id": "wedding",
+      "title": "Wedding Photography",
+      "description": "Recording the most beautiful moments of your special day",
+      "icon": "heart"
+    },
+    {
+      "id": "commercial",
+      "title": "Commercial Photography",
+      "description": "High-quality commercial photography services for your business",
+      "icon": "briefcase"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "testimonial-1",
+      "content": "The photos are absolutely amazing! They perfectly captured the special moments of our wedding day.",
+      "author": "Sarah & John",
+      "role": "Newlyweds"
+    },
+    {
+      "id": "testimonial-2",
+      "content": "Professional service and excellent results. The photos exceeded our expectations!",
+      "author": "Michael Brown",
+      "role": "Business Owner"
+    },
+    {
+      "id": "testimonial-3",
+      "content": "The photographer was very patient and made us feel comfortable. The photos turned out beautifully!",
+      "author": "Emily Davis",
+      "role": "Family Portrait Client"
+    }
+  ]
+} 

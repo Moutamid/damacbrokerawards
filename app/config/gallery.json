@@ -1,0 +1,182 @@
+{
+  "categories": {
+    "awards": {
+      "title": "DAMAC Broker Awards & Recognition",
+      "description": "Celebrating top-performing real estate agencies and brokers in Dubai across annual and quarterly galas.",
+      "detail": "An exclusive showcase of DAMAC Properties' annual and quarterly award ceremonies honoring outstanding broker partnerships.",
+      "albums": [
+        {
+          "id": "awards-1",
+          "title": "Annual Broker Awards Gala 2026",
+          "description": "Honoring the top agency partners and highest sales achievers of the year.",
+          "detail": "A grand celebration recognizing outstanding contributions, sales milestones, and elite performance across DAMAC developments.",
+          "coverImage": "/images/gallery/nature/img (2).jpg",
+          "photoCount": 4,
+          "createdAt": "2026-03-15",
+          "photos": [
+            {
+              "id": "awards-1-1",
+              "url": "/images/2026/img (1).jpg",
+              "title": "Agency of the Year Trophy",
+              "description": "The flagship trophy presented to the top-performing real estate agency"
+            },
+            {
+              "id": "awards-1-2",
+              "url": "/images/gallery/nature/nature_2.jpg",
+              "title": "Executive Keynote Address",
+              "description": "DAMAC executive leadership addressing agency principals and top brokers"
+            },
+            {
+              "id": "awards-1-3",
+              "url": "/images/gallery/nature/nature_3.jpg",
+              "title": "Top Producer Award Presentation",
+              "description": "Recognizing the highest individual sales volume achievement"
+            },
+            {
+              "id": "awards-1-4",
+              "url": "/images/gallery/nature/nature_4.jpg",
+              "title": "Gala Reception & Dinner",
+              "description": "Exclusive networking dinner with industry leaders and luxury partners"
+            }
+          ]
+        },
+        {
+          "id": "awards-2",
+          "title": "Q1 Broker Recognition Ceremony",
+          "description": "Celebrating premier sales milestones and top agency performance in Q1.",
+          "coverImage": "/images/2026/img (1).jpg",
+          "photoCount": 4,
+          "createdAt": "2026-03-14",
+          "photos": [
+            {
+              "id": "awards-2-1",
+              "url": "/images/2026/img (1).jpg",
+              "title": "Quarterly Excellence Awards",
+              "description": "Honoring agencies exceeding first-quarter sales targets"
+            },
+            {
+              "id": "awards-2-2",
+              "url": "/images/2026/img (2).jpg",
+              "title": "Luxury Portfolio Preview",
+              "description": "Exclusive unveil of upcoming master community launches"
+            },
+            {
+              "id": "awards-2-3",
+              "url": "/images/2026/img (3).jpg",
+              "title": "Rising Star Agency Award",
+              "description": "Celebrating the fastest-growing brokerage partner of the quarter"
+            },
+            {
+              "id": "awards-2-4",
+              "url": "/images/2026/img (4).jpg",
+              "title": "Broker Community Networking",
+              "description": "Brokers engaging with DAMAC sales management teams"
+            }
+          ]
+        },
+        {
+          "id": "awards-3",
+          "title": "Q1 Off-Plan Sales Summit & Awards",
+          "description": "Recognizing exceptional results across off-plan luxury residential launches.",
+          "coverImage": "/images/2025/img (2).jpg",
+          "photoCount": 4,
+          "createdAt": "2025-03-13",
+          "photos": [
+            {
+              "id": "awards-3-1",
+              "url": "/images/2025/img (4).jpg",
+              "title": "Off-Plan Champion Trophy",
+              "description": "Awarded to the brokerage leading luxury off-plan sales volume"
+            },
+            {
+              "id": "awards-3-2",
+              "url": "/images/2025/img (2).jpg",
+              "title": "Master Community Spotlight",
+              "description": "Presentation on upcoming waterfront and golf community projects"
+            },
+            {
+              "id": "awards-3-3",
+              "url": "/images/2025/img (3).jpg",
+              "title": "International Brokerage Honor",
+              "description": "Recognizing top global agency partners driving international sales"
+            },
+            {
+              "id": "awards-3-4",
+              "url": "/images/2025/img (1).jpg",
+              "title": "Celebration Dinner",
+              "description": "Gala dinner honoring top quarterly sales performers"
+            }
+          ]
+        },
+        {
+          "id": "awards-4",
+          "title": "Q1 Luxury Portfolio Broker Awards",
+          "description": "Honoring leaders in ultra-luxury tower and villa sales across Dubai.",
+          "coverImage": "/images/2024/img (1).jpg",
+          "photoCount": 4,
+          "createdAt": "2024-03-12",
+          "photos": [
+            {
+              "id": "awards-4-1",
+              "url": "/images/2024/img (1).jpg",
+              "title": "Ultra-Luxury Achievement Award",
+              "description": "Recognizing high-value penthouse and villa transactions"
+            },
+            {
+              "id": "awards-4-2",
+              "url": "/images/2024/img (2).jpg",
+              "title": "VIP Partner Circle",
+              "description": "Induction of premier agencies into DAMAC's elite partner tier"
+            },
+            {
+              "id": "awards-4-3",
+              "url": "/images/2024/img (3).jpg",
+              "title": "Branded Residences Showcase",
+              "description": "Highlighting record-breaking sales in co-branded luxury towers"
+            },
+            {
+              "id": "awards-4-4",
+              "url": "/images/2024/img (4).jpg",
+              "title": "Award Ceremony Finale",
+              "description": "Group photo with senior executives and award-winning agencies"
+            }
+          ]
+        },
+        {
+          "id": "awards-5",
+          "title": "Q1 End-of-Year Sales Celebration",
+          "description": "Closing the year by honoring top agency performance and record sales.",
+          "coverImage": "/images/2023/img (4).jpg",
+          "photoCount": 4,
+          "createdAt": "2023-03-11",
+          "photos": [
+            {
+              "id": "awards-5-1",
+              "url": "/images/2023/img (3).jpg",
+              "title": "Chairman's Excellence Award",
+              "description": "The highest honor presented to the premier agency partner"
+            },
+            {
+              "id": "awards-5-2",
+              "url": "/images/2023/img (4).jpg",
+              "title": "Annual Sales Review Presentation",
+              "description": "Highlights of annual delivery milestones and sales growth"
+            },
+            {
+              "id": "awards-5-3",
+              "url": "/images/2023/img (2).jpg",
+              "title": "Top Individual Agent Award",
+              "description": "Recognizing the single highest-producing real estate agent"
+            },
+            {
+              "id": "awards-5-4",
+              "url": "/images/2023/img (1).jpg",
+              "title": "Year-End Gala Night",
+              "description": "Celebratory evening with entertainment and partner awards"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
