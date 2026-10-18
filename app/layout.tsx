@@ -12,6 +12,9 @@ const cormorant = Cormorant({
 export const metadata: Metadata = {
   title: 'Nimmal Gallery',
   description: 'A collection of visual stories',
+  icons: {
+    icon: '/favicon.ico',
+  },
 }
 
 export default function RootLayout({
