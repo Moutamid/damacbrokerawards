@@ -27,11 +27,22 @@ jobs:
           cache: npm
 
       - name: Install dependencies
+        shell: bash
         run: |
           npm config set fetch-retries 5
           npm config set fetch-retry-factor 2
           npm config set fetch-retry-maxtimeout 600000
-          npm ci --no-audit --no-fund
+
+          for i in 1 2 3 4 5; do
+            if npm ci --no-audit --no-fund; then
+              exit 0
+            fi
+            echo "npm ci failed (attempt $i/5), retrying..."
+            sleep $((i * 5))
+          done
+
+          echo "npm ci failed after all retries"
+          exit 1
 
       - name: Build static site
         run: npm run build
