@@ -10,10 +10,16 @@ const cormorant = Cormorant({
 })
 
 export const metadata: Metadata = {
-  title: 'Nimmal Gallery',
-  description: 'A collection of visual stories',
+  title: 'DAMAC Broker Awards & Recognition',
+  description: 'Celebrating top-performing real estate agencies and brokers in Dubai across annual and quarterly galas.',
   icons: {
-    icon: '/favicon.ico',
+    icon: [
+      { url: '/favicon.ico' },
+      { url: '/favicon-32x32.png', type: 'image/png', sizes: '32x32' },
+    ],
+    apple: [
+      { url: '/apple-touch-icon.png', type: 'image/png', sizes: '180x180' },
+    ],
   },
 }
 

@@ -42,7 +42,7 @@
         },
         {
           "id": "awards-2",
-          "title": "Q1 Broker Recognition Ceremony",
+          "title": "2026 Q1 Broker Recognition Ceremony",
           "description": "Celebrating premier sales milestones and top agency performance in Q1.",
           "coverImage": "/images/2026/img (1).jpg",
           "photoCount": 4,
@@ -76,7 +76,7 @@
         },
         {
           "id": "awards-3",
-          "title": "Q1 Off-Plan Sales Summit & Awards",
+          "title": "2025 Q1 Off-Plan Sales Summit & Awards",
           "description": "Recognizing exceptional results across off-plan luxury residential launches.",
           "coverImage": "/images/2025/img (2).jpg",
           "photoCount": 4,
@@ -110,7 +110,7 @@
         },
         {
           "id": "awards-4",
-          "title": "Q1 Luxury Portfolio Broker Awards",
+          "title": "2024 Q1 Luxury Portfolio Broker Awards",
           "description": "Honoring leaders in ultra-luxury tower and villa sales across Dubai.",
           "coverImage": "/images/2024/img (1).jpg",
           "photoCount": 4,
@@ -143,8 +143,8 @@
           ]
         },
         {
-          "id": "awards-5",
-          "title": "Q1 End-of-Year Sales Celebration",
+          "id": "2023",
+          "title": "2023 Q1 End-of-Year Sales Celebration",
           "description": "Closing the year by honoring top agency performance and record sales.",
           "coverImage": "/images/2023/img (4).jpg",
           "photoCount": 4,
